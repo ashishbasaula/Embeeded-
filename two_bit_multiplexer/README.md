@@ -26,3 +26,4 @@ The process `proc` checks the selection input `sel` and assigns the correspondin
 ## Output Waveform
 ![two bit multiplexer_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/1edcc73a-83e5-4cdc-84cc-dee5788487d0)
 ## State diagram
+![429013535_902971218223403_3278465807765349419_n](https://github.com/ashishbasaula/Embeeded-/assets/32863612/a97da874-680b-4e94-86d9-f9248046c1db)
