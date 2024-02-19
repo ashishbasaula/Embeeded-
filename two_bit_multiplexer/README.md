@@ -24,3 +24,4 @@ The process `proc` checks the selection input `sel` and assigns the correspondin
 - If `sel` is "11", `z_out` gets `in_d`.
 
 ## Output Waveform
+![two bit multiplexer_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/1edcc73a-83e5-4cdc-84cc-dee5788487d0)
