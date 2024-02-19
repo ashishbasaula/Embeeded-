@@ -23,3 +23,4 @@ The architecture `structural` instantiates two components:
 The signal `S1` represents the intermediate sum, and `C1` and `C2` represent the intermediate carry outputs of the half adders. The final sum output `S` is computed using `S1`, and the final carry output `C` is computed using `C1` and `C2`.
 
 ## Circuit Diagram
+![full_adder_using_half_adder_and_or_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/920f1366-7875-4be4-89bd-a4c3e89cf7c0)
