@@ -5,7 +5,8 @@ entity decoder_tb is
 end decoder_tb;
 
 architecture test of decoder_tb is
-	signal a,b:std_logic;
+		signal a:in std_logic_vector(1 downto 0);
+		signal b:out std_logic_vector(3 downto 0)
 	component decoder
 			port(
 		a:in std_logic_vector(1 downto 0);
