@@ -29,3 +29,5 @@ Instantiate the `jk_flipflop` entity in your design. Connect the inputs (`J`, `K
 
 ## Circuit Diagram
 ![jk_flip_flop_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/d36ba3a5-674e-49d2-bec9-1f8a4201cddc)
+## State Diagram
+![428944852_237905856057622_7692537953113279094_n](https://github.com/ashishbasaula/Embeeded-/assets/32863612/fbb9aef0-6dd5-494a-869d-26d9eef32fdf)
