@@ -24,3 +24,7 @@ The signal `S1` represents the intermediate sum, and `C1` and `C2` represent the
 
 ## Circuit Diagram
 ![full_adder_using_half_adder_and_or_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/920f1366-7875-4be4-89bd-a4c3e89cf7c0)
+
+## State Diagram
+![429099031_1045332879912439_3447508690704781241_n](https://github.com/ashishbasaula/Embeeded-/assets/32863612/78ba5b99-137f-4014-b856-7dacd290380c)
+
