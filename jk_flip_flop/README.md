@@ -28,3 +28,4 @@ Instantiate the `jk_flipflop` entity in your design. Connect the inputs (`J`, `K
 - The assignments are based on the inputs `J` and `K` according to the JK flip-flop truth table.
 
 ## Circuit Diagram
+![jk_flip_flop_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/d36ba3a5-674e-49d2-bec9-1f8a4201cddc)
