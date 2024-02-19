@@ -30,8 +30,6 @@ The behavior of the demultiplexer is described using a process (`d`). Inside the
 
 ## Block Diagram 
 
-## Simulation
 
-You can simulate this demultiplexer using a VHDL simulator (e.g., ModelSim, GHDL). Use testbench code to apply input stimuli (`a`, `s`) and observe the output (`b`) behavior.
 
 
