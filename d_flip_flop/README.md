@@ -25,7 +25,7 @@ The flip-flop's behavior is as follows:
 
 The behavior of the flip-flop is described using a process. Inside the process, the inputs `CLK` and `RESET` are checked to determine the output `Q` based on the conditions mentioned above.
 
-## Circuit Diagram
+## WaveForm Diagram
 ![d_flip_flop_waveform](https://github.com/ashishbasaula/Embeeded-/assets/32863612/e18ed296-4eb4-42c6-a017-8dc877f93b4c)
 
 
