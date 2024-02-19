@@ -26,6 +26,12 @@ The FSM is implemented using two processes:
 1. **State Logic Process (`sl`)**: Handles the state transitions based on the clock and reset signals.
 2. **Combinational Logic Process (`cl`)**: Implements the state actions and updates the LCM calculation.
 
+## Circuit Diagram
+![lcm_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/2e112ff3-9594-4ce1-b896-0d1db99a3d09)
+
+## State Diagram
+![428480084_333151046346570_5204476742027612247_n](https://github.com/ashishbasaula/Embeeded-/assets/32863612/719cbd1f-78b4-4d05-bc75-1d42577ee1a8)
+
 
 
 
