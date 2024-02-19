@@ -26,16 +26,12 @@ The flip-flop's behavior is as follows:
 The behavior of the flip-flop is described using a process. Inside the process, the inputs `CLK` and `RESET` are checked to determine the output `Q` based on the conditions mentioned above.
 
 ## Circuit Diagram
+![d_flip_flop_waveform](https://github.com/ashishbasaula/Embeeded-/assets/32863612/e18ed296-4eb4-42c6-a017-8dc877f93b4c)
 
-![D Flip-Flop Circuit Diagram](d_flip_flop_wave_waveform.png)
+
 
 ## Diagram
-![D Flip-Flop  Diagram](d_flipflop.jpg)
+![429110704_433288592595251_7124360627648366330_n](https://github.com/ashishbasaula/Embeeded-/assets/32863612/2d26e82f-98b9-4e91-a1b2-e4ffc827af35)
 
-## Simulation
 
-You can simulate this flip-flop using a VHDL simulator  gtkwave. Use testbench code to apply input stimuli (`D`, `CLK`, `RESET`) and observe the output (`Q`) behavior.
 
-## License
-
-This code is provided under the [MIT License](LICENSE).
