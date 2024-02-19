@@ -30,6 +30,7 @@ The behavior of the demultiplexer is described using a process (`d`). Inside the
 ![demux_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/128204283/33197c7a-24fd-48a7-b840-28fe044cc7f7)
 
 ## Block Diagram 
+![429091691_802778824711887_4459147620333372605_n](https://github.com/ashishbasaula/Embeeded-/assets/32863612/bc4fcd56-025b-469d-aecb-2cdcd222197b)
 
 
 
