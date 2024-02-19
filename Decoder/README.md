@@ -25,4 +25,9 @@ The decoder's behavior is as follows:
 
 The behavior of the decoder is described using a process (`d`). Inside the process, the input `a` is checked to determine the output `b` based on the conditions mentioned above.
 
+## Circuit Diagram
+
+![Decoder Circuit Diagram](decoder_circuit_diagram.png)
+
+
 
