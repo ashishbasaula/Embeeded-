@@ -35,9 +35,9 @@ begin
                 end if;
             when S1 =>
                 if input_bit = '0' then
-                    next_state <= IDLE;
-                else
                     next_state <= S10;
+                else
+                    next_state <= S1;
                 end if;
             when S10 =>
                 if input_bit = '1' then
@@ -46,18 +46,18 @@ begin
                     next_state <= IDLE;
                 end if;
             when S101 =>
-                if input_bit = '0' then
-                    next_state <= IDLE;
-                else
+                if input_bit = '1' then
                     next_state <= S1011;
+                else
+                    next_state <= S10;
                 end if;
             when S1011 =>
                 if input_bit = '1' then
                     sequence_detected <= '1';
-                    next_state <= IDLE;
-                else
-                    sequence_detected <= '0';
                     next_state <= S1;
+                else
+                    sequence_detected <= '1';
+                    next_state <= S10;
                 end if;
         end case;
     end process;
