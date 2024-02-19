@@ -25,7 +25,7 @@ The decoder's behavior is as follows:
 
 The behavior of the decoder is described using a process (`d`). Inside the process, the input `a` is checked to determine the output `b` based on the conditions mentioned above.
 
-## Circuit Diagram
+## WaveForm Diagram
 
 
 ![decoder_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/5ee77865-5795-4d5e-800f-b8e46668d27d)
