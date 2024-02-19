@@ -26,7 +26,8 @@ The demultiplexer's behavior is as follows:
 
 The behavior of the demultiplexer is described using a process (`d`). Inside the process, the input `s` is checked to determine which output line to activate based on the conditions mentioned above.
 
-## Circuit Diagram
+## Waveform Diagram
+![demux_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/128204283/33197c7a-24fd-48a7-b840-28fe044cc7f7)
 
 ## Block Diagram 
 
