@@ -27,3 +27,6 @@ To use this VHDL code:
 - The design employs a finite state machine (FSM) with states: `IDLE`, `S1`, `S10`, `S101`, and `S1011`.
 - State transitions occur on the rising edge of the clock signal.
 - The FSM logic detects the sequence "1011" by transitioning through the defined states based on the input bit sequence.
+
+
+## Output Waveform
