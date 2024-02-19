@@ -30,5 +30,6 @@ The behavior of the decoder is described using a process (`d`). Inside the proce
 
 ![decoder_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/5ee77865-5795-4d5e-800f-b8e46668d27d)
 
+## State Diagram
 
-
+![429101609_1890624084707129_7842936191221086966_n](https://github.com/ashishbasaula/Embeeded-/assets/32863612/75695130-b05a-4713-ad04-a168079e17fb)
