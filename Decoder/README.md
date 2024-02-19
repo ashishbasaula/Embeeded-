@@ -27,7 +27,8 @@ The behavior of the decoder is described using a process (`d`). Inside the proce
 
 ## Circuit Diagram
 
-![Decoder Circuit Diagram](decoder_circuit_diagram.png)
+
+![decoder_wave_form](https://github.com/ashishbasaula/Embeeded-/assets/32863612/5ee77865-5795-4d5e-800f-b8e46668d27d)
 
 
 
