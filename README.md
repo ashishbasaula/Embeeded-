@@ -9,7 +9,7 @@ Ensure you have the following software installed on your system:
 
 - GHDL
 - GTKWave
-- xilit
+- xilinx
 
 ## Getting Started
 
